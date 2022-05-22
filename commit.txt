@@ -1,0 +1,30 @@
+3/30/22:
+Coded options for whether the user wants to figure out if they wanted outfit recommendations based on season,
+weather, or style/category.
+
+4/1/22:
+Added gender options for that follow the specific types of outfits: season, weather, or style/category
+
+
+4/5/22 - 4/7/22:
+Had bit of difficulty installing PIL(pillow), was able to later figure it out after requesting help from a fellow Redditor.
+Need 'PIL' for image reading and outputting. Was able to successfully install packages later on.
+
+
+4/9/22:
+Sourced and created image folders for designated types/categories of either season, weather, or style.
+
+
+4/10/22:
+Created subplots to try to output 6 images. Had difficulty trying to output 6 images, so I stuck with only 4 pictures for 
+outfits for the time being. (Will definitely try figuring out a way to do 6 images, or even implement the idea into a website). Tested with a few images from the created images and folders.
+
+5/6/22:
+Sourced and imaged more images for the outfits and folders.
+
+TBA:
+Additional images and implementing code for other sections and folders of the program so that it can output the designated outfit image when running the program.
+
+
+TBA:
+Uploaded to github, updated documentation/comments throughout the code of this program.
