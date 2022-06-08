@@ -20,11 +20,13 @@ Created subplots to try to output 6 images. Had difficulty trying to output 6 im
 outfits for the time being. (Will definitely try figuring out a way to do 6 images, or even implement the idea into a website). Tested with a few images from the created images and folders.
 
 5/6/22:
-Sourced and imaged more images for the outfits and folders.
+Uploaded to github with updated documentation/comments throughout the code of this program. Sourced and imaged more images for the outfits and folders.
 
-TBA:
+5/27/22:
 Additional images and implementing code for other sections and folders of the program so that it can output the designated outfit image when running the program.
 
+5/29/22:
+Had trouble on why the images wouldn't output the same as before but had realized I had forgotten, "plt.show()" in some of the code for the program.
 
-TBA:
-Uploaded to github, updated documentation/comments throughout the code of this program.
+6/7/22:
+More trouble with images on not outputting (configuring and fixing some bugs / errors)
